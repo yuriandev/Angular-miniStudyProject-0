@@ -1,4 +1,4 @@
-# Password generator
+# Password generator. [Deeploy is here](https://password-generator-pied-seven.vercel.app/)
 
 ## The mini Angular study project
 
